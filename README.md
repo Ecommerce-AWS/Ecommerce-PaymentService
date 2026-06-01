@@ -1,4 +1,4 @@
-﻿# Ecommerce-PaymentService
+# Ecommerce-PaymentService
 
 Multi-gateway (Razorpay/Stripe), webhooks, MongoDB
 

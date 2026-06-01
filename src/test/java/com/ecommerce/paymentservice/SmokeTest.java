@@ -1,4 +1,4 @@
-﻿package com.ecommerce.paymentservice;
+package com.ecommerce.paymentservice;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
